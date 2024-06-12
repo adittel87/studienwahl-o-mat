@@ -9,6 +9,7 @@ Partei_Bild:;"data/appel2.jpg"
 0;"Ist uns ziemlich egal."
 1;"Ja, Früchte sollen am Baum bleiben, bis sie reif sind."
 1;"Ja, süße Früchte sind toll."
+1;"Ja, Nachhaltigkeit liegt uns am Herzen."
 #
 Partei_kurz:;"Bananen"
 Partei_lang:;"Bananenrepublikpartei"
@@ -21,6 +22,7 @@ Partei_Bild:;"data/banane2.jpg"
 -1;"Spinat ist eklig.   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
 -1;"Früchte können schon früher abgenommen werden und im Container reifen.   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
 1;"Süße Früchte sind lecker.   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+-1;"Nachhaltigkeit ist uns unangenehm."
 #;
 Partei_kurz:;"TBC"
 Partei_lang:;"Tradionelle Bundesdeutsche Citronenpartei"
@@ -33,6 +35,7 @@ Partei_Bild:;"data/tbc2.jpg"
 -1;Spinat ist kein gesundes Essen.
 -1;Früchte können gern schon frühzeitig abgenommen werden.
 -1;Süße Früchte sind für kleine Mädchen. Echte Männer mögen Zitronen!
+-1;"..."
 #
 Partei_kurz:;"Neutrale"
 Partei_lang:;"Neutrale Partei"
@@ -45,4 +48,4 @@ Partei_Bild:;"data/egal2.jpg"
 0;Ist uns egal.
 0;Ist uns egal.
 0;Ist uns egal.
-
+0;Ist uns egal.
