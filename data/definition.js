@@ -69,7 +69,7 @@ const fileQuestions = "Obsthausen_Fragen.csv";
 
 //	1.2 ANZAHL der FRAGEN / 1.2 NUMBER of QUESTIONS
 
-const intQuestions = 7;
+const intQuestions = 6;
 
 
 // 	--------------------------------------------------------------------
@@ -136,12 +136,12 @@ const descriptionShowOnStart = 1;
 
 // 	1.6.2. Hauptueberschrift / 1.6.1. Main headline
 
-const descriptionHeading1 = "Obstwahlen in Giessen";
+const descriptionHeading1 = "Fruchtkorbwahlen";
 
 
 // 	1.6.3. Zweite Ueberschrift / 1.6.2. Second Headline
 
-const descriptionHeading2 = "Die Wahl zur neuen Regierung in der JLU";
+const descriptionHeading2 = "Die Wahl zur neuen Regierung in der Obsthausen";
 
 
 // 	1.6.4. Kurzer Text um was es bei der Wahl geht / 1.6.3. Short (descriptive) text on what's the election about
