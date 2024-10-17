@@ -1,8 +1,8 @@
 Partei_kurz:;"Partei A"
 Partei_lang:;"Theoriegeleitet-forschende Interessen"
-Partei_Beschreibung:;"Im Vordergrund steht die übertragung von wissenschaftlichen Theorien auf praktische Fragestellungen, dazu werden Forschungsergebnisse auf wissenschaftlichen Kongressen vorgestellt und man setzt sich mit unerforschten Themengebieten auseinander. &#x1F464; &#8203; &#8206; <span data-email='info@appelpartei.de'></span> <span data-filterid='&#x1F464; &#8203; &#8206;'></span>"
+Partei_Beschreibung:;"Im Vordergrund steht die übertragung von wissenschaftlichen Theorien auf praktische Fragestellungen, dazu werden Forschungsergebnisse auf wissenschaftlichen Kongressen vorgestellt und man setzt sich mit unerforschten Themengebieten auseinander."
 Partei_URL:;""
-Partei_Bild:;"data/appel2.jpg"
+Partei_Bild:;""
 -1;"Gelb ist keine schöne Farbe. Rot ist viel besser!"
 1;"Runde Früchte sind am besten!"
 1;"Volle Zustimmung!"
@@ -13,9 +13,9 @@ Partei_Bild:;"data/appel2.jpg"
 #
 Partei_kurz:;"Partei B"
 Partei_lang:;"Kreativ-Kulturelle-Interessen"
-Partei_Beschreibung:;"Analyse und Interpretation von Kunstwerken und Literatur, intensive Auseinandersetzung mit Sprachen, verschiedenen Kulturen und/oder sozialen Gruppen.  &#8203; &#8205; <span data-filterid='&#8203; &#8205;'></span> <span data-email='info@banane.ba?cc=vorstand@banane.ba'></span>"
+Partei_Beschreibung:;"Analyse und Interpretation von Kunstwerken und Literatur, intensive Auseinandersetzung mit Sprachen, verschiedenen Kulturen und/oder sozialen Gruppen."
 Partei_URL:;""
-Partei_Bild:;"data/banane2.jpg"
+Partei_Bild:;""
 1;"Gelb ist die beste Farbe!   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
 -1;"Früchte müssen lang sein, nicht rund.   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
 -1;"Wer will denn ernsthaft die Schalte mitessen?   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
@@ -26,9 +26,9 @@ Partei_Bild:;"data/banane2.jpg"
 #;
 Partei_kurz:;"Partei C"
 Partei_lang:;"Wirtschaftlich-unternehmerische Interessen"
-Partei_Beschreibung:;"Geschäftspläne für junge Unternehmen erstellen, den wirtschaftlichen Erfolg von Unternehmen steigern, sowie Kunden von Produkten überzeugen sind Hauptinteresse. &#8203; &#8205; &#8206; <span data-filterid='&#8203; &#8205; &#8206;' data-email000000='kontakt@die-citronen.ca'></span>"
-Partei_URL:;"https://www.die-citronen.ca"
-Partei_Bild:;"data/tbc2.jpg"
+Partei_Beschreibung:;"Geschäftspläne für junge Unternehmen erstellen, den wirtschaftlichen Erfolg von Unternehmen steigern, sowie Kunden von Produkten überzeugen sind Hauptinteresse."
+Partei_URL:;""
+Partei_Bild:;""
 1;Gelb ist eindeutig die beste Farbe.
 1;Runde Früchte haben die beste Form!
 -1;Die Schale muss nicht mitgegessen werden.
@@ -41,7 +41,7 @@ Partei_kurz:;"Partei D"
 Partei_lang:;"Soziale Interessen"
 Partei_Beschreibung:;"Die gezielte Förderung von Kindern mit Lernschwierigkeiten, und die Unterstützung und Betreuung von bedürftigen Menschen bei ihrer Alltagsbewältigung, sowie Jugendlichen in einer sozialen Einrichtung sind Schwerpunkte des sozialen Interesses."
 Partei_URL:;""
-Partei_Bild:;"data/egal2.jpg"
+Partei_Bild:;""
 0;Ist uns egal.
 0;Ist uns egal.
 0;Ist uns egal.
