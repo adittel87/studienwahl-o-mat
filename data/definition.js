@@ -62,7 +62,7 @@
 	e.g. "Airport","The airport shall be expanded."
 */
 
-const fileQuestions = "Obsthausen_Fragen.csv";
+const fileQuestions = "Studienwahl_Fragen.csv";
 
 
 // 	--------------------------------------------------------------------
@@ -94,7 +94,7 @@ const intQuestions = 7;
  	1.3. PARTIES, PARTY-INFORMATION and ANSWERS
 */
 
-const fileAnswers = "Obsthausen_Parteien.csv";
+const fileAnswers = "Studienwahl_Parteien.csv";
 
 /*
  	1.5. BILDGROESSE des PARTEILOGOS (am Ende)
@@ -136,17 +136,17 @@ const descriptionShowOnStart = 1;
 
 // 	1.6.2. Hauptueberschrift / 1.6.1. Main headline
 
-const descriptionHeading1 = "Obstwahlen Giessen";
+const descriptionHeading1 = "Studienwahl des FB03 der Justus-Liebig-Universität Gießen";
 
 
 // 	1.6.3. Zweite Ueberschrift / 1.6.2. Second Headline
 
-const descriptionHeading2 = "Die Wahl zur neuen Regierung an der JLU";
+const descriptionHeading2 = "Eine kleine Hilfe zur Entscheidung über die Wahl des Studienganges";
 
 
 // 	1.6.4. Kurzer Text um was es bei der Wahl geht / 1.6.3. Short (descriptive) text on what's the election about
 
-const descriptionExplanation = "Am 30. Februar finden in Obsthausen Wahlen statt. Sie k&ouml;nnen sich hier alle Parteipositionen anschauen und miteinander vergleichen. Dies ist <strong>keine Wahlempfehlung</strong>, sondern ein Informationsangebot zu Wahlen! <br /> Zur Auswahl stehen vier Parteien mit unterschiedlichen Meinungen zu kontroversen Themen der Obst- und Frucht-Landschaft."; 
+const descriptionExplanation = "Hiermit soll angehenden Studierenden eine <strong>Entscheidungshilfe</strong> gegeben werden, ob der Studiengang BA Social Sciences zu dem eigenen Profil passt. <br /> Zur Auswahl stehen aktuell vier Orientierungen, die lose auf unterschiedliche Studiengänge passen, die an der JLU angeboten werden."; 
 
 
 // 	--------------------------------------------------------------------
