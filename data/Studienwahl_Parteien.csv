@@ -15,7 +15,8 @@ Partei_Bild:;""
 1;""
 -1;""
 -1;""
-#
+#;
+
 Partei_kurz:;"Partei B"
 Partei_lang:;"Kreativ-Kulturelle-Interessen"
 Partei_Beschreibung:;"Analyse und Interpretation von Kunstwerken und Literatur, intensive Auseinandersetzung mit Sprachen, verschiedenen Kulturen und/oder sozialen Gruppen."
@@ -33,7 +34,8 @@ Partei_Bild:;""
 0;""
 0;""
 -1;""
-#
+#;
+
 Partei_kurz:;"Partei C"
 Partei_lang:;"Wirtschaftlich-unternehmerische Interessen"
 Partei_Beschreibung:;"Geschäftspläne für junge Unternehmen erstellen, den wirtschaftlichen Erfolg von Unternehmen steigern, sowie Kunden von Produkten überzeugen sind Hauptinteresse."
@@ -51,7 +53,8 @@ Partei_Bild:;""
 -1;""
 1;""
 -1;""
-#
+#;
+
 Partei_kurz:;"Partei D"
 Partei_lang:;"Soziale Interessen"
 Partei_Beschreibung:;"Die gezielte Förderung von Kindern mit Lernschwierigkeiten, und die Unterstützung und Betreuung von bedürftigen Menschen bei ihrer Alltagsbewältigung, sowie Jugendlichen in einer sozialen Einrichtung sind Schwerpunkte des sozialen Interesses."
@@ -69,4 +72,4 @@ Partei_Bild:;""
 0;""
 -1;""
 1;""
-#
+#;
